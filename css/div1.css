@@ -1,32 +1,26 @@
-.firstdiv{
-  width: 1920px;
-  height: 730px;
+.div1{
   background-image: url("../img/pic1.jpg");
-  margin-top: 100px;
+  height: 730px;
 }
 
 .titre1{
   color: white;
-  position: relative;
-  top: 40%;
-  left: 76%;
-  font-size: 35px;
+  font-size: 2.5em;
+  margin-top: 250px;
 }
 
-.buttonmenu {
-  position: relative;
-  top: 50%;
-  left: 82%;
-  background-color: #634b28;
+.button1 {
+  background-color: #6e573b;
   border: none;
-  border-radius: 10px;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+  font-size: 1.1em;
+  margin-right: 170px;
+  margin-top: 20px;
+  border-radius: 10px;
   font-weight: 600;
 }
+
