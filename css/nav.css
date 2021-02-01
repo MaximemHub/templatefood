@@ -1,0 +1,25 @@
+.item-nav{
+  list-style: none;
+  align-items: end;
+}
+
+.item-nav a{
+  float: left;
+  margin-right: 30px;
+}
+
+.div-nav-item{
+  float: right;
+  margin-right: 300px;
+}
+
+li{
+  display : inline;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
+}
+
+
