@@ -1,0 +1,28 @@
+.div2{
+  background-color: lightblue;
+  height: 730px;
+  display: flex;
+  justify-content: center;
+}
+
+.content{
+  background: lightcoral;
+  width: 300px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.welcome-content2{
+  font-weight: 100;
+}
+
+.pic2{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+}
+
+.pic3{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+}

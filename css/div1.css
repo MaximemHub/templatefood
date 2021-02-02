@@ -5,8 +5,8 @@
 
 .titre1{
   color: white;
-  font-size: 2.5em;
-  margin-top: 250px;
+  font-size: 2.4em;
+  margin-top: 280px;
 }
 
 .button1 {
@@ -19,7 +19,7 @@
   display: inline-block;
   font-size: 1.1em;
   margin-right: 170px;
-  margin-top: 20px;
+  margin-top: 50px;
   border-radius: 10px;
   font-weight: 600;
 }
