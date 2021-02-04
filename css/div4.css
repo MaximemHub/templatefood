@@ -1,14 +1,61 @@
 .div4{
   height: 730px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', sans-serif
 }
 
 .titre3{
    text-align: center;
-   font-weight: bold;
-   margin-top: 120px;
+   margin-top: 150px;
 }
 
-.navbarnav .navitem{
-  color: black;
+.titre3, .titreentree, .titreplat, .titredessert{
+  font-weight: bold;
+}
+
+.div4 p{
+  font-weight: bold;
+  font-size: 1.3em;
+  margin-top: 30px;
+}
+
+.div4 .descriptionplat{
+  font-weight: lighter;
+  font-style: italic;
+  color: color: rgb(70, 70, 70);
+  font-size: 1em;
+}
+
+.prixplat{
+  font-style: normal;
+  font-size: 1.3em;
+}
+
+.div4 span{
+  font-weight: lighter;
+  font-style: normal;
+}
+
+.contentdiv4{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 100px;
+  padding-right: 400px;
+  padding-left: 400px;
+}
+
+.button3 {
+  background-color: #6e573b;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.1em;
+  margin-top: 50px;
+  border-radius: 10px;
+  font-weight: 600;
+  position: relative;
+  left: 44%;
+  top: 10%;
 }
