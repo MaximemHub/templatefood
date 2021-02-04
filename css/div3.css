@@ -1,19 +1,24 @@
-.div1{
-  background-image: url("../img/pic9.jpg");
+.div3{
+  background-image: url("../img/pic8.jpg");
   background-position: center;
   background-size: cover;
   height: 730px;
   font-family: 'Ubuntu', sans-serif;
 }
 
-.titre1{
+.titre2{
   color: white;
-  font-size: 2.6em;
-  margin-top: 280px;
+  font-size: 2.4em;
+  margin-top: 200px;
   font-weight: bold;
 }
 
-.button1 {
+.menutext{
+  color: white;
+  margin-top: 50px;
+}
+
+.button2 {
   background-color: #6e573b;
   border: none;
   color: white;
@@ -26,4 +31,3 @@
   border-radius: 10px;
   font-weight: 600;
 }
-
