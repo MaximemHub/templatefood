@@ -30,6 +30,7 @@
 
 .form{
   text-align: center;
+  padding: 50px;
 }
 
 .form input{
@@ -63,7 +64,29 @@ select{
     text-decoration: none;
     display: inline-block;
     font-size: 1.1em;
-    margin-top: 10px;
+    margin-top: 50px;
     border-radius: 10px;
     font-weight: 600;
 }
+
+@media screen and (max-width: 600px){
+  .form input{
+    width: 200px;
+
+  }
+
+   .form textarea{
+    width: 200px;
+  }
+
+  .title-reservation{
+    font-size: 2rem;
+  }
+
+  .container-reservation{
+    flex-direction: column;
+  }
+}
+
+
+
