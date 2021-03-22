@@ -27,3 +27,12 @@
   font-weight: 600;
 }
 
+.fade-in{
+  opacity: 0;
+  transition: opacity 600ms ease-in;
+}
+
+.fade-in.appear{
+  opacity: 1;
+}
+
